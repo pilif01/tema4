@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/resource.dir/main.cpp.o CMakeFiles/resource.dir/ResourceManager.cpp.o -o resource 

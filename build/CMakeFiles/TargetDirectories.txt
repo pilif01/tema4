@@ -1,0 +1,3 @@
+/home/ale/Documents/fi/build/CMakeFiles/resource.dir
+/home/ale/Documents/fi/build/CMakeFiles/edit_cache.dir
+/home/ale/Documents/fi/build/CMakeFiles/rebuild_cache.dir
