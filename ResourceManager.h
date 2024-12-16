@@ -3,7 +3,7 @@
 
 #include <string>
 #include <iostream>
-#include <tr1/memory> // Pentru std::tr1::shared_ptr
+#include <tr1/memory> 
 
 class ResourceManager {
 public:
@@ -25,7 +25,6 @@ public:
     // Move assignment operator
     ResourceManager& operator=(ResourceManager&& other) noexcept;
 
-    // Utilizare resursă
     void useResource() const;
 
 private:
